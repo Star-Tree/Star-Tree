@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here 👋
 
 Hi, I'm Rex Wang. I focus on front-end(F2E) development. Welcome to sending letters to chat.
 
