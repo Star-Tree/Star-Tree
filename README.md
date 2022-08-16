@@ -1,6 +1,8 @@
 ### Here 👋
 
-Hi, I'm Rex Wang. I focus on front-end development. Welcome to sending letters to chat.
+Hi, I'm Rex Wang. I focus on front-end development.
+I want to apply for a job as a front-end engineer(F2E) or front-end developer.
+Welcome to sending letters to chat.
 
 <!--
 **Star-Tree/Star-Tree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
