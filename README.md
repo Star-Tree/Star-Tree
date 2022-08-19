@@ -4,7 +4,7 @@ Hi, I'm Rex Wang. I focus on front-end development.<br >
 
 I want to apply for a job as a front-end engineer(F2E) or front-end developer.<br >
 
-Welcome to sending letters to chat.
+Welcome to chat.
 
 # Skills:
 
