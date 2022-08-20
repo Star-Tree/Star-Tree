@@ -23,7 +23,7 @@ Welcome to chat.
 
 
 * ## Framework
-  #### Experience in using Vue.js.(e.g Composition API, Custom Directives)
+  #### Experience in using Vue.js().(e.g Composition API, Custom Directives)
   #### Experience in using Vuex. (e.g use modules to separate page data)
   #### Experienced using Vue-Router. (e.g dynamic page, lazy loading)
   #### Experience in using Vue-CLI.
