@@ -12,7 +12,7 @@ Welcome to chat.
   #### Experience in using Flexbox model and making simple animation.
   #### Experience in using CSS preprocessor, SCSS. (used @import Integrate SCSS , used @mixin for custom templates, used @mixin, @content for custom RWD grid)
   #### Experience in using RWD(Responsive Web Design) for developing responsive web pages.
-  #### Experience in using mockups (Sketch, Figma) and designing Wireframe for CSS layout.
+  #### Experience in using mockups (Sketch, Figma, Adobe XD) and designing Wireframe for CSS layout.
 
 * ## JavaScript
   #### Know the basic ES6+.
@@ -43,7 +43,7 @@ Welcome to chat.
 * ## Other Related
   #### Experience in developing SPA(Single Page Application) and MPA(Multiple Page Application).
   #### Experience in using Webpack.
-  #### Experience in using NPM and NVM.
+  #### Experience in using NPM, NVM and YARN.
   
 * ## Studying
   #### Vite
