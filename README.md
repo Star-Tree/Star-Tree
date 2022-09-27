@@ -6,6 +6,8 @@ I want to apply for a job as a front-end engineer(F2E) or front-end developer.<b
 
 Welcome to chat.
 
+Resume: https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
+
 # Skills:
 
 * ## HTML / CSS
