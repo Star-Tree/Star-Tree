@@ -13,7 +13,7 @@ Resume(中文): https://www.cakeresume.com/pdf/s--wCLwXPOdhkxpf1f9nPoZQA--/JN6bN
 # Skills:
 
 * ## HTML / CSS
-  #### Experience in using Flexbox model and making simple animation.
+  #### Experience in using Flexbox model, pug and making simple animation.
   #### Experience in using CSS preprocessor, SCSS. (used @import Integrate SCSS , used @mixin for custom templates, used @mixin, @content for custom RWD grid)
   #### Experience in using RWD(Responsive Web Design) for developing responsive web pages.
   #### Experience in using mockups (Sketch, Figma, Adobe XD) and designing Wireframe for CSS layout.
@@ -27,6 +27,7 @@ Resume(中文): https://www.cakeresume.com/pdf/s--wCLwXPOdhkxpf1f9nPoZQA--/JN6bN
 
 
 * ## Framework
+  #### Experience in using React.js(Hooks) and JSX.
   #### Experience in using Vue.js(Vue 3). (e.g Composition API, Custom Directives)
   #### Experience in using Vuex. (e.g use modules to separate page data)
   #### Experienced using Vue-Router. (e.g dynamic page, lazy loading)
