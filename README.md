@@ -8,7 +8,7 @@ Welcome to chat.
 
 Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
 
-Resume(中文): https://www.cakeresume.com/pdf/s--wCLwXPOdhkxpf1f9nPoZQA--/JN6bN.pdf
+Resume(中文): https://www.cakeresume.com/pdf/s--ilhKuIik_y35F9VUepAOxA--/A2XEB.pdf
 
 # Skills:
 
