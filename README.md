@@ -49,10 +49,6 @@ Resume(中文): https://www.cakeresume.com/pdf/s--ilhKuIik_y35F9VUepAOxA--/A2XEB
   #### Experience in developing SPA(Single Page Application) and MPA(Multiple Page Application).
   #### Experience in using Webpack.
   #### Experience in using NPM, NVM and YARN.
-  
-* ## Studying
-  #### Vite
-  #### Pinia
 
 
 <!--
