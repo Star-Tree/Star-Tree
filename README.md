@@ -8,15 +8,15 @@ Welcome to chat.
 
 Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
 
-Resume(中文): https://www.cakeresume.com/pdf/s--ilhKuIik_y35F9VUepAOxA--/A2XEB.pdf
+Resume(中文): https://www.cakeresume.com/pdf/s--9knYgkM0jyjlkvISOIUwpg--/JNv50.pdf
 
 # Skills:
 
 * ## HTML / CSS
-  #### Experience in using Flexbox model, pug and making simple animation.
+  #### Experience in using Flexbox model, Pug and making simple animation.
   #### Experience in using CSS preprocessor, SCSS. (used @import Integrate SCSS , used @mixin for custom templates, used @mixin, @content for custom RWD grid)
   #### Experience in using RWD(Responsive Web Design) for developing responsive web pages.
-  #### Experience in using mockups (Sketch, Figma, Adobe XD) and designing Wireframe for CSS layout.
+  #### Experience in using mockups (Sketch, Figma, Adobe XD, Zeplin) and designing Wireframe for CSS layout.
 
 * ## JavaScript
   #### Know the basic ES6+.
@@ -30,8 +30,8 @@ Resume(中文): https://www.cakeresume.com/pdf/s--ilhKuIik_y35F9VUepAOxA--/A2XEB
   #### Experience in using React.js(Hooks) and JSX.
   #### Experience in using Vue.js(Vue 3). (e.g Composition API, Custom Directives)
   #### Experience in using Vuex. (e.g use modules to separate page data)
-  #### Experienced using Vue-Router. (e.g dynamic page, lazy loading)
-  #### Experience in using Vue-CLI.
+  #### Experienced using Vue-Router and React-Router. (e.g dynamic page, lazy loading)
+  #### Experience in using Vue-CLI and Create-React-App(CRA).
  
 * ## Version Control
   #### Experience in using Git to manage projects.
@@ -40,7 +40,7 @@ Resume(中文): https://www.cakeresume.com/pdf/s--ilhKuIik_y35F9VUepAOxA--/A2XEB
   
 * ## APIs
   #### Experience in using Google Maps API to embed maps on the page.
-  #### Experience in using PTX's MOTC Transport API for Tourism to develop a Taiwan travel website.
+  #### Experience in using TDX's MOTC Transport API for Tourism to develop a Taiwan travel website.
   
 * ## Coding Style
   #### Know the basics for BEM.
