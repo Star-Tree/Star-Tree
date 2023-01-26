@@ -6,9 +6,9 @@ I want to apply for a job as a front-end engineer(F2E) or front-end developer.<b
 
 Welcome to chat.
 
-Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
+Resume(Ch): https://www.cakeresume.com/pdf/s--KPzdCZaX1CrQp0YrCBiHYA--/8JVrQ.pdf
 
-Resume(中文): https://www.cakeresume.com/pdf/s--hFJ7AZa2u-2Gld0Anlh6Dg--/MoXVr.pdf
+Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
 
 # Skills:
 
