@@ -1,12 +1,8 @@
 # Here 👋
 
-Hi, I'm Rex Wang. I focus on front-end development.<br >
+Hi, I'm Rex Wang. I am a front-end engineer(F2E). Welcome to chat.<br >
 
-I want to apply for a job as a front-end engineer(F2E) or front-end developer.<br >
-
-Welcome to chat.
-
-Resume(Ch): https://www.cakeresume.com/pdf/s--KPzdCZaX1CrQp0YrCBiHYA--/8JVrQ.pdf
+Resume(Ch): [https://www.cakeresume.com/pdf/s--KPzdCZaX1CrQp0YrCBiHYA--/8JVrQ.pdf](https://www.cakeresume.com/pdf/s--RieWskvssYHOVXUAFoooYg--/y8RBx.pdf)
 
 Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
 
