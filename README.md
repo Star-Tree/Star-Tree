@@ -2,7 +2,7 @@
 
 Hi, I'm Rex Wang. I am a front-end engineer(F2E). Welcome to chat.<br >
 
-Resume(Ch): https://www.cakeresume.com/pdf/s--RieWskvssYHOVXUAFoooYg--/y8RBx.pdf
+Resume(Ch): https://www.cakeresume.com/pdf/s--RieWskvssYHOVXUAFoooYg--/y8RBx.pdf<br >
 Resume(En): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
 
 # Skills:
