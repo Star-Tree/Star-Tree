@@ -2,8 +2,8 @@
 
 Hi, I'm Rex Wang. I am a front-end engineer(F2E). Welcome to chat.<br >
 
-Resume(ch): https://www.cakeresume.com/pdf/s--RieWskvssYHOVXUAFoooYg--/y8RBx.pdf<br >
-Resume(en): https://www.cakeresume.com/pdf/s--l69TA-FZZ_t1sR6rQu2LlQ--/B5ZxV.pdf
+Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf)<br >
+Resume(en): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf)
 
 # Skills:
 
