@@ -1,9 +1,10 @@
 # Here 👋
 
-Hi, I'm Rex Wang. I am a front-end engineer(F2E). Welcome to chat.<br >
+Hi, I'm a front-end engineer(F2E). I use Vue.js (3) and React.js (hooks) for development. Welcome to chat.<br >
 
-Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf) <br><br>
-Resume(en): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf) <br>
+Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf) 
+
+Resume(en): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf) 
 
 # Skills:
 
