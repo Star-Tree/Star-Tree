@@ -1,6 +1,6 @@
 # Here 👋
 
-Hi, I'm a front-end engineer(F2E). I use Vue.js (3) and React.js (hooks) for development. Welcome to chat.<br >
+Hi, I'm a **front-end engineer(F2E)**. I use **Vue.js (3)** and **React.js (hooks)** for development. Welcome to chat.<br >
 
 Resume(en): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf) 
 
