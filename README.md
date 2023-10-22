@@ -5,7 +5,7 @@ Hi, I'm a **front-end engineer(F2E)**. I use **Vue.js (3)** and **React.js (hook
 Resume(en): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_en.pdf) 
 
 Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf](https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(Rex)_zh.pdf)
-
+<br >
 # Skills:
 
 * ## HTML / CSS
