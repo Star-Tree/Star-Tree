@@ -9,7 +9,7 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
 # Skills:
 
 * ## HTML / CSS
-  #### Experience in using the Flexbox, Grid, Pug, and making simple animation.
+  #### Experience in using the Flexbox, Pug, and making simple animation.
   #### Experience in using CSS preprocessor, SCSS. (used @import Integrate SCSS, used @mixin for custom templates, used @mixin, @content for custom RWD grid.)
   #### Experience in using RWD (Responsive Web Design)for developing responsive web pages.
   #### Experience in using Tailwind CSS and Styled Components.
