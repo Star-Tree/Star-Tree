@@ -10,32 +10,26 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
 
 * ## HTML / CSS
   #### Experience in using the Flexbox, Pug, and making simple animation.
-  #### Experience in using CSS preprocessor, SCSS. (used @import Integrate SCSS, used @mixin for custom templates, used @mixin, @content for custom RWD grid.)
-  #### Experience in using RWD (Responsive Web Design)for developing responsive web pages.
+  #### Experience in using CSS preprocessor, SCSS.
+  #### Experience in using RWD (Responsive Web Design).
   #### Experience in using Tailwind CSS and Styled Components.
   #### Experience in using Mockup (Sketch, Figma, Adobe XD, Zeplin) and designing wireframes for CSS layout.
 
 * ## JavaScript
   #### Experience in using ES6+.
   #### Experience in using TypeScript.
-  #### Experience in using AJAX to request and respond to web APIs.
   #### Experience in using Axios to Integrate base URL to simplify calling web API.
-  #### Experience in using Promise and Await to resolve the asynchronous problem. 
-  #### Experience in using native form validation.
 
 * ## Framework
-  #### Experience in using React.js (Hooks) and JSX.
-  #### Experience in using Vue.js (3). (e.g. CompositionAPI, Custom Directives)
-  #### Experience in using state management for Vuex and Redux Toolkit (RTK Query).
-  #### Experience in using React-Context for pass data.
-  #### Experience in using Vue-Router and React-Router. (e.g. dynamic page, lazyloading)
-  #### Experience in using Vue-CLI and Create-React-App(CRA).
+  #### Experience in using React.js (Hooks) and Vue.js(3).
+  #### Experience in using state management for Redux Toolkit(RTK) and Vuex.
+  #### Experience in using React-Router and Vue-Router. (e.g. dynamic page, lazyloading)
+  #### Experience in using Vite, Webpack, Create-React-App(CRA) and Vue-CLI.
  
 * ## Version Control
   #### Experience in using Git to manage projects.
   #### Experience in using GitHub to deploy products on GitHub pages.
-  #### Know the workflow of Git Flow and GitHub Flow.
-  #### Experience in using FTP to manage files.
+  #### Know the workflow of Git Flow, GitHub Flow, and GitLab Flow.
   
 * ## APIs
   #### Experience in using the Google Maps API to embed maps on the page.
@@ -44,9 +38,8 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
   
 * ## Other Related
   #### Experience in developing SPA (Single PageApplication) and MPA (Multiple Page Application).
-  #### Experience in using Webpack and Babel.
   #### Experience in using Post-CSS. (e.g. Use Autoprefixer to achieve browser style compatibility.)
-  #### Experience in using NVM, NPM, and Yarn.
+  #### Experience in using Yarn and Babel.
   #### Know the basics of BEM.
 
 
