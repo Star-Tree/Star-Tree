@@ -40,7 +40,7 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
   #### Experience in developing SPA (Single PageApplication) and MPA (Multiple Page Application).
   #### Experience in using Post-CSS. (e.g. Use Autoprefixer to achieve browser style compatibility.)
   #### Experience in using Yarn and Babel.
-  #### Know the basics of BEM.
+  #### Experience in using BEM.
 
 
 <!--
