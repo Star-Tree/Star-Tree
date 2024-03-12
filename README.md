@@ -9,10 +9,10 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
 # Skills:
 
 * ## HTML / CSS
-  #### Experience in using the Flexbox, Pug, and making simple animation.
+  #### Experience in using the Flexbox, Pug, BEM, and making simple animation.
   #### Experience in using CSS preprocessor, SCSS.
   #### Experience in using RWD (Responsive Web Design).
-  #### Experience in using Tailwind CSS and Styled Components.
+  #### Experience in using Tailwind CSS, Styled Components, and CSS Modules.
   #### Experience in using Mockup (Sketch, Figma, Adobe XD, Zeplin) and designing wireframes for CSS layout.
 
 * ## JavaScript
@@ -21,7 +21,7 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
   #### Experience in using Axios to Integrate base URL to simplify calling web API.
 
 * ## Framework
-  #### Experience in using React.js (Hooks) and Vue.js(3).
+  #### Experience in using React.js (Hooks), Next.js, and Vue.js(3).
   #### Experience in using state management for Redux Toolkit(RTK) and Vuex.
   #### Experience in using React-Router and Vue-Router. (e.g. dynamic page, lazyloading)
   #### Experience in using Vite, Webpack, Create-React-App(CRA) and Vue-CLI.
@@ -37,10 +37,11 @@ Resume(zh): [https://github.com/Star-Tree/resume/blob/main/Lian-Cheng%20Wang%20(
   #### Experience in using JSON Placeholder API and  JSON server to test data.
   
 * ## Other Related
-  #### Experience in developing SPA (Single PageApplication) and MPA (Multiple Page Application).
+  #### Experience in developing SPA(Single PageApplication) and MPA(Multiple Page Application).
+  #### Experience in developing SSR(Server-Side Rendering) and SSG(Static Site Generation).
+  #### Experience in developing A11y(Accessibility).
   #### Experience in using Post-CSS. (e.g. Use Autoprefixer to achieve browser style compatibility.)
-  #### Experience in using Yarn and Babel.
-  #### Experience in using BEM.
+  #### Experience in using Pnpm, Yarn, and Babel.
 
 
 <!--
